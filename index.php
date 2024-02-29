@@ -12,7 +12,7 @@
         <nav class="navbar">
             <a href="#" class="logo">SeatFlow<span>.</span></a>
             <ul class="menu-links">
-                <li><a href="#">Home</a></li>
+                <li><a href="#">test</a></li>
             </ul>            
         </nav>
     </header>
